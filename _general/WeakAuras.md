@@ -1,5 +1,8 @@
 # General
 
+
+essenz tracker
+
 # Affixe
 
 # Dungeons
@@ -9,3 +12,6 @@
 ### Melidrussa Chillworn
 
 Primal Chill, Dispell Highest Stack
+
+
+
