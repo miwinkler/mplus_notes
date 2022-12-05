@@ -1,4 +1,4 @@
-# Trash
+# Melidrussa Chillworn Trash
 
 Nicht in Eier treten (Grp oder Mobs)
 -> falls doch, Dispell Frost Debuff
@@ -20,13 +20,17 @@ Dispell Höchster Primal Chill Stack
 Whelps:
 Cold Claws -> Interrupt/Stuns
 
+
+
 # Kokia Blazehoof Trash
 Trash detonate when they die
 
 # Kokia Blazehoof
-alle 30sec Ritual of Blazebinding
--> Firestorm Kicken und nicht in 25y range stehen (tod=explosion)
+ca. alle 30sec (100 Energie) Ritual of Blazebinding -> Firestorm spawnt an Ort von Spielern
+- In Ecken stehen, damit Adds immer dort spawnen (wg Explosion)
+- "Roaring Blaze" Kicken und nicht in 25y range stehen (tod=explosion)
+Nicht bei oder hinter Tank stehen.
+Tank-CD bei "Searing Blows"-Stack
 
-Bei 100 Energie: In Ecken stehen, damit Adds immer dort spawnen
 
-
+# Kyrakka/Erkhart Stormvein Trash
