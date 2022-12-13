@@ -6,7 +6,7 @@
  -  Nicht in Eier treten (Grp oder Mobs)
     - falls doch, Dispell höchsten Primal Chill Stack https://www.wowdb.com/spells/372682
  - Flashfrost Chillweavers   
-    -> Prio Kick Shield https://www.wowdb.com/spells/372749
+    - Prio Kick Shield https://www.wowdb.com/spells/372749
 
 ### Mini Boss Defiler Draghar 
 - Nicht mit dem Rücken zu Eiern stehen + Andere Spieler als anvisiert aus LoS zum Ziel raus!
@@ -26,32 +26,20 @@
 
 
 
+## Kokia Blazehoof Trash
+### Trash
+#### Thunderhead
+- Ausweichen Frontal https://www.wowdb.com/spells/391726
+- Tank: Knockback https://www.wowdb.com/spells/392395
+- Aoe DMG bei Dispell von https://www.wowdb.com/spells/392640
+    - 2 Debuffs = 1 sofort dispell > Aoe Heal > zweiter AoE beim Auslaufen
+#### Flamegullet
+- Frontal ausweichen https://www.wowdb.com/spells/391723
+- Tank: https://www.wowdb.com/spells/392394  Mitigation
+- <50% Enrage = Burn Phase = DMG CDs
 
 
-
-
-
-
-
-
-
-381512 - Stormslam
-
-
-
-Flashfrost Earthshapers
-- Tectonic Slam (Stun, Fear, Disorient)
-# Melidrussa Chillworn
-
-Aus allem raus
-Dispell Höchster Primal Chill Stack (372682)
-
-Whelps:
-Cold Claws -> Interrupt/Stuns
-
-# Kokia Blazehoof Trash
-
-Trash detonate when they die
+Trash detonate bei 
 
 # Kokia Blazehoof
 
