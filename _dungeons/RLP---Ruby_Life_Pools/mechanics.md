@@ -1,23 +1,46 @@
-# Melidrussa Chillworn Trash
+# RLP
+## Melidrussa Chillworn
+### Trash
  - Ausweichen https://www.wowdb.com/spells/372696
  - Missile ausweichen https://www.wowdb.com/spells/371956
  -  Nicht in Eier treten (Grp oder Mobs)
-    - falls doch, Dispell Primal Chill
+    - falls doch, Dispell höchsten Primal Chill Stack https://www.wowdb.com/spells/372682
+ - Flashfrost Chillweavers   
+    -> Prio Kick Shield https://www.wowdb.com/spells/372749
+
+### Mini Boss Defiler Draghar 
+- Nicht mit dem Rücken zu Eiern stehen + Andere Spieler als anvisiert aus LoS zum Ziel raus!
+- Charge auf Spieler https://www.wowdb.com/spells/372087
+    - Bei Wand stehen und bei Charge zur Seite
+- Tank: Mitigation nutzen https://www.wowdb.com/spells/372047
+    - Jeder Hit der durch geht = Void Zone auf Boden (Molten Steel)
+
+## Mechanics
+ - Bait Hailbombs  https://www.wowdb.com/spells/396044
+    - zusammenstehen, um Platz im Raum zu haben
+ - Aus Zentrum von Chillstorm rauslaufen https://www.wowdb.com/spells/372851
+    - Knockback am Ende -> Nicht in Hailbombs werfen lassen
+ - AoE Adds
+    - Am Ende castet Boss AoE, der gekickt werden muss. Um kicken zu können, muss Schild heruntergekloppt werden https://www.wowdb.com/spells/372988
+    - AoE Heal! https://www.wowdb.com/spells/373680
+
+
+
+
+
+
+
+
+
+
+
 
 381512 - Stormslam
 
-- Flashfrost Chillweavers   
-    -> Prio Kick Shield https://www.wowdb.com/spells/372749
+
 
 Flashfrost Earthshapers
-
 - Tectonic Slam (Stun, Fear, Disorient)
-
-# Mini Boss Defiler Draghar
-
-Nicht mit dem Rücken zu Eiern stehen + Andere Spieler als anvisiert aus LoS zum Ziel raus!
-Tank: Jeder Hit, dem nicht ausgewichen wird = spawn voidzone
-
 # Melidrussa Chillworn
 
 Aus allem raus
