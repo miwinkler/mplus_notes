@@ -15,7 +15,7 @@
 - Tank: Mitigation nutzen https://www.wowdb.com/spells/372047
     - Jeder Hit der durch geht = Void Zone auf Boden (Molten Steel)
 
-## Mechanics
+### Mechanics
  - Bait Hailbombs  https://www.wowdb.com/spells/396044
     - zusammenstehen, um Platz im Raum zu haben
  - Aus Zentrum von Chillstorm rauslaufen https://www.wowdb.com/spells/372851
