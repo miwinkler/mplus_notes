@@ -3,6 +3,8 @@
 ### Trash
 Decay Speaker - FOCUS DMG
 
+-------
+
 ### Mechanics
 - gleichzeitig down bringen (+30%dmg+haste bei 15% hp)
 - Alle Spieler immer über 90% halten!, sonst Buff für Bosse
@@ -12,7 +14,7 @@ Decay Speaker - FOCUS DMG
 - 378020 - Bleed, bis Spieler auf >90% getoppt sind
 - 378208 - CD auf Spieler + Spot heal
 
--------------
+--------------
 
 ## Gutshot
 ### Trash
@@ -22,7 +24,7 @@ Decay Speaker - FOCUS DMG
 - Focus Dmg auf Hyenas, bei https://www.wowdb.com/spells/384416 werden 2 neue gerufen
 - Hyenas in Fallen kiten
 
--------------
+-------
 
 ## Treemouth 
 ### Trash
@@ -33,7 +35,7 @@ Decay Speaker - FOCUS DMG
 - 1 Spieler muss eingezogen werden, sonst Buff
 - -> nach eingezogen Debuff  = Reihenfolge
 
--------------
+--------------
 
 ## Den of Decay and Decatriarch Wratheye 
 ### Trash
