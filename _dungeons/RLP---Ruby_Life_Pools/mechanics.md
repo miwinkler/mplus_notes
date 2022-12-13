@@ -2,7 +2,7 @@
  - Ausweichen https://www.wowdb.com/spells/372696
  - Missile ausweichen https://www.wowdb.com/spells/371956
  -  Nicht in Eier treten (Grp oder Mobs)
- -  > falls doch, Dispell Primal Chill
+    - falls doch, Dispell Primal Chill
 
 381512 - Stormslam
 
