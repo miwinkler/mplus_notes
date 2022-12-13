@@ -27,7 +27,7 @@ Decay Speaker - FOCUS DMG
 - kick 381770 von Adds
 - Adds explodieren nach Tod und hinterlassen Pfütze -> Raus
 - 1 Spieler muss eingezogen werden, sonst Buff
-- -> nach eingezogen Debuff  = Reihenfolge
+- - nach eingezogen Debuff  = Reihenfolge
 
 ## Boss 4 Den of Decay and Decatriarch Wratheye 
 ### Trash
@@ -39,8 +39,8 @@ Decay Speaker - FOCUS DMG
 
 ### Mechanics
  - Nicht von Wolke https://www.wowdb.com/spells/376170 treffen lassen
- - -> Buff für Boss
+ - - Buff für Boss
  - Focus dmg auf Totem https://www.wowdb.com/spells/373944 
- - -> je länger es lebt = Buff für Boss
+ - - je länger es lebt = Buff für Boss
  - Focus Heal tank dmg durch https://www.wowdb.com/spells/373912
  - Aoe Heal bei Totem https://www.wowdb.com/spells/373944
