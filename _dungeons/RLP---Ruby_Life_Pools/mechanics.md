@@ -1,11 +1,13 @@
 # Melidrussa Chillworn Trash
+ - Ausweichen https://www.wowdb.com/spells/372696
+ - Missile ausweichen https://www.wowdb.com/spells/371956
+ -  Nicht in Eier treten (Grp oder Mobs)
+   > falls doch, Dispell Primal Chill
 
-Nicht in Eier treten (Grp oder Mobs)
--> falls doch, Dispell Frost Debuff
+381512 - Stormslam
 
-Flashfrost Chillweavers
-
-- Eisschild (Kick / Dispell / Stun, Fear, Disorient...)
+- Flashfrost Chillweavers   
+    -> Prio Kick Shield https://www.wowdb.com/spells/372749
 
 Flashfrost Earthshapers
 
@@ -19,7 +21,7 @@ Tank: Jeder Hit, dem nicht ausgewichen wird = spawn voidzone
 # Melidrussa Chillworn
 
 Aus allem raus
-Dispell Höchster Primal Chill Stack
+Dispell Höchster Primal Chill Stack (372682)
 
 Whelps:
 Cold Claws -> Interrupt/Stuns
