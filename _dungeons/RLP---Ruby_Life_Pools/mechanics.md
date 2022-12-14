@@ -30,7 +30,7 @@
 ### Trash
 !! Mini-Bosse explodier bei Tod !! -> https://www.wowdb.com/spells/373087
 
------
+=====
 #### Thunderhead
 - Ausweichen Frontal https://www.wowdb.com/spells/391726
 - Tank: Knockback https://www.wowdb.com/spells/392395
