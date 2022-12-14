@@ -28,7 +28,7 @@
 
 ## Kokia Blazehoof Trash
 ### Trash
-**grundsätzlich explodiert Trash bei Tod**
+grundsätzlich explodiert Trash bei Tod
 
 #### Thunderhead
 - Ausweichen Frontal https://www.wowdb.com/spells/391726
