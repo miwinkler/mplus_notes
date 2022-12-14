@@ -38,6 +38,9 @@
 - Tank: https://www.wowdb.com/spells/392394  Mitigation
 - <50% Enrage = Burn Phase = DMG CDs
 
+4x Blazebound Destroyer auf Plattform killen
+- Living Bomb = Dmg+KnockUp Spieler und mobs https://www.wowdb.com/spells/373693
+
 
 Trash detonate bei 
 
