@@ -26,9 +26,9 @@
 
 
 
-## Kokia Blazehoof Trash
+## Kokia Blazehoof
 ### Trash
-grundsätzlich explodiert Trash bei Tod
+!! Mini-Bosse explodier bei Tod !! -> https://www.wowdb.com/spells/373087
 
 #### Thunderhead
 - Ausweichen Frontal https://www.wowdb.com/spells/391726
@@ -43,15 +43,20 @@ grundsätzlich explodiert Trash bei Tod
 4x Blazebound Destroyer auf Plattform killen
 - Living Bomb = Dmg+KnockUp Spieler und mobs https://www.wowdb.com/spells/373693
 
+-----
+
+ - Kick Primalist Cinderweaver -> Cinderbolt https://www.wowdb.com/spells/384194
+    - Wenn das gekickt werden kann, muss https://www.wowdb.com/spells/385063 nicht gepurget werden -> 25% +dmg
+ - Prio Kick/Stun/Knock Flame Dance https://www.wowdb.com/spells/385536 
 
 
-# Kokia Blazehoof
-
-ca. alle 30sec (100 Energie) Ritual of Blazebinding -> Firestorm spawnt an Ort von Spielern
-
-- In Ecken stehen, damit Adds immer dort spawnen (wg Explosion)
-- "Roaring Blaze" Kicken und nicht in 25y range stehen (tod=explosion)
-  Nicht bei oder hinter Tank stehen.
-  Tank-CD bei "Searing Blows"-Stack
+### Mechanics
+- bei 100 Energie zusammenstehen -> Add Spawn
+    -  Blazebound Firestorm Focus dmg
+    -  AoE Heal bei Inferno -> https://www.wowdb.com/spells/384823
+    -  Prio Kick Blazebound Firestorm -> https://www.wowdb.com/spells/373017
+    -  Explodiert bei Tod -> Im Ring weiterlaufen
+- Molten Boulder https://www.wowdb.com/spells/372107 ausweichen
+- Tank Mitigation bei "Searing Blows"-Stack
 
 # Kyrakka/Erkhart Stormvein Trash
