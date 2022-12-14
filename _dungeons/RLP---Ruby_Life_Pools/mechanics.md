@@ -28,7 +28,12 @@
 
 ## Kokia Blazehoof
 ### Trash
-!! Mini-Bosse explodier bei Tod !! -> https://www.wowdb.com/spells/373087
+- 4x Blazebound Destroyer auf Plattform killen
+    - !! Explodieren bei Tod !! -> https://www.wowdb.com/spells/373087
+- Living Bomb = Dmg+KnockUp Spieler und mobs https://www.wowdb.com/spells/373693
+- Kick Primalist Cinderweaver -> Cinderbolt https://www.wowdb.com/spells/384194
+    - Wenn das gekickt werden kann, muss https://www.wowdb.com/spells/385063 nicht gepurget werden -> 25% +dmg
+- Prio Kick/Stun/Knock Flame Dance https://www.wowdb.com/spells/385536 
 
 #### Thunderhead
 - Ausweichen Frontal https://www.wowdb.com/spells/391726
@@ -40,14 +45,6 @@
 - Tank: https://www.wowdb.com/spells/392394  Mitigation
 - <50% Enrage = Burn Phase = DMG CDs
 
-
-- 4x Blazebound Destroyer auf Plattform killen
-- Living Bomb = Dmg+KnockUp Spieler und mobs https://www.wowdb.com/spells/373693
-
-
- - Kick Primalist Cinderweaver -> Cinderbolt https://www.wowdb.com/spells/384194
-    - Wenn das gekickt werden kann, muss https://www.wowdb.com/spells/385063 nicht gepurget werden -> 25% +dmg
- - Prio Kick/Stun/Knock Flame Dance https://www.wowdb.com/spells/385536 
 
 
 ### Mechanics
