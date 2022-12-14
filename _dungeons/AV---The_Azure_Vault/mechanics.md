@@ -2,9 +2,7 @@
 ## Trash
 ## Mini-Boss
 ## Mechanics
-
-
-
+blub...
 -----
 nach Boss 1 bekommt man ggf einen Buff. Diesen beachten.
 -----
