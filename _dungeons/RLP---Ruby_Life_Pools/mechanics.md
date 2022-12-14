@@ -69,6 +69,11 @@
 - Dmg CD für Tempest Stormshield -> https://www.wowdb.com/spells/391050
 
 ## Mechanics
+- Hero P1
+- Casts werden unterbruchen (wie Quaking) -> https://www.wowdb.com/spells/381516
+- Dispell Stormslam Debuff -> https://www.wowdb.com/spells/381512
+- Heal: Spot Heal FlameSpit-Target
+- Heal-CD für P2
 
 
 
