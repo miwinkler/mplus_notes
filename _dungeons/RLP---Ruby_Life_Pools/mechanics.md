@@ -56,4 +56,19 @@
 - Molten Boulder https://www.wowdb.com/spells/372107 ausweichen
 - Tank Mitigation bei "Searing Blows"-Stack
 
-# Kyrakka/Erkhart Stormvein Trash
+# Kyrakka/Erkhart Stormvein
+
+## Trash
+- Purge Tempest Barrier -> https://www.wowdb.com/spells/391031
+- AoE Heal + Deff bei Lightning Storm -> https://www.wowdb.com/spells/392488
+- Kick Thunderbolt -> https://www.wowdb.com/spells/390449
+- Prio Kick Flashfire -> https://www.wowdb.com/spells/392451
+
+## Mini Boss "High Channeler Ryvati"
+- Prio Kick Shock Blast -> https://www.wowdb.com/spells/392924
+- Dmg CD für Tempest Stormshield -> https://www.wowdb.com/spells/391050
+
+## Mechanics
+
+
+
