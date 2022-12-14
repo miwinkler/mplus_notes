@@ -30,7 +30,6 @@
 ### Trash
 !! Mini-Bosse explodier bei Tod !! -> https://www.wowdb.com/spells/373087
 
-=====
 #### Thunderhead
 - Ausweichen Frontal https://www.wowdb.com/spells/391726
 - Tank: Knockback https://www.wowdb.com/spells/392395
@@ -41,7 +40,6 @@
 - Tank: https://www.wowdb.com/spells/392394  Mitigation
 - <50% Enrage = Burn Phase = DMG CDs
 
------
 
 - 4x Blazebound Destroyer auf Plattform killen
 - Living Bomb = Dmg+KnockUp Spieler und mobs https://www.wowdb.com/spells/373693
