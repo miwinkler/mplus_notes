@@ -28,6 +28,8 @@
 
 ## Kokia Blazehoof Trash
 ### Trash
+**grundsätzlich explodiert Trash bei Tod**
+
 #### Thunderhead
 - Ausweichen Frontal https://www.wowdb.com/spells/391726
 - Tank: Knockback https://www.wowdb.com/spells/392395
@@ -42,7 +44,6 @@
 - Living Bomb = Dmg+KnockUp Spieler und mobs https://www.wowdb.com/spells/373693
 
 
-Trash detonate bei 
 
 # Kokia Blazehoof
 
